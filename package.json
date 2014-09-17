@@ -1,0 +1,27 @@
+{
+  "name": "sprint",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "express": "~4.2.0",
+    "hooks": "^0.3.2",
+    "mongodb": "^1.4.11",
+    "mongoose": "^3.8.16",
+    "morgan": "~1.0.0",
+    "mpath": "^0.2.1",
+    "mpromise": "^0.5.1",
+    "mquery": "^1.1.0",
+    "ms": "^0.6.2",
+    "muri": "^0.3.1",
+    "passport": "^0.2.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^0.3.0",
+    "regexp-clone": "0.0.1",
+    "sliced": "0.0.5"
+  }
+}
